@@ -1,3 +1,12 @@
-# Bookstore
+# Bookstore Project
+This is my Web Dev Touchstone project for UoPeople.
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/t1i0my9a/Bookstore)
+## Features
+- Homepage with featured books
+- Contact form for inquiries
+- Responsive design for mobile users
+
+## What I Learned
+- Improved my understanding of HTML, CSS, and JavaScript
+- Practiced modifying AI-generated code to fit project requirements
+- Enhanced my skills in web accessibility and user engagement
